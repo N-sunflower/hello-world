@@ -1,2 +1,3 @@
 # hello-world
-simple repository
+
+This is my first use this paltform!
